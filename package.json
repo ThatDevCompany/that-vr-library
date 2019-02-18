@@ -1,7 +1,7 @@
 {
     "name": "that-vr-library",
     "description": "A simple and lightweight VR library using ThreeJS for rendering and CannonJS for physics",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "license": "MIT",
     "repository": {
         "type": "git",
