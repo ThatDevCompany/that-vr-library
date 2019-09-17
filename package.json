@@ -18,7 +18,7 @@
     },
     "dependencies": {
         "cannon": "0.6.2",
-        "lodash": "4.17.11",
+        "lodash": "4.17.15",
         "three": "0.100.0"
     },
     "devDependencies": {
